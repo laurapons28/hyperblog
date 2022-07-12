@@ -1,6 +1,6 @@
 body 
 {
-    color: #333 ;
+    color: red ;
     text-align: center;
     font-family: Arial;
     font-size: 16px; 
@@ -32,7 +32,7 @@ body
     border: 1px solid #DDD ; 
     margin: 0 auto; 
 }
-#cont ainer h1
+#container h1
 {
     font-size: 20px;
 }
